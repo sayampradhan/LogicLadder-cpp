@@ -63,6 +63,8 @@ cpp-evolution/
 ├── phase-6-stl/
 └── phase-7-systems/
 
+Each phase builds on the previous. No shortcuts.
+
 ...
 
 ## 🟢 PHASE 1 — Foundations of Logic
