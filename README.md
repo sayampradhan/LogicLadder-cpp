@@ -21,12 +21,7 @@
 This is not a collection of problems.  
 This is a **public log of evolution**.
 
-## ⚡ Growth Principle
-This repository grows every single day.  
-Every solved problem sharpens my thinking.  
-Every commit compounds my skill.
-
-## 📊 Evolution Metrics
+## 📊 Evolution Dashboard
 
 | Metric | Value |
 |--------|-------|
@@ -47,6 +42,11 @@ Progress:
 <!-- PROGRESS_BAR -->
 [█░░░░░░░░░░░░░░░░░░░] 5.81%
 <!-- /PROGRESS_BAR -->
+
+## ⚡ Growth Principle
+This repository grows every single day.  
+Every solved problem sharpens my thinking.  
+Every commit compounds my skill.
 
 ---
 
