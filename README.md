@@ -18,7 +18,7 @@
 > from an absolute beginner in C++  
 > to advanced DSA & system-level programming.
 
-| Metric | Value |
+| System Metric | Current Configuration |
 |--------|-------|
 | 🧠 **Total Problems** | 86 |
 | ⚔️ **Problems Conquered** | <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT --> |
