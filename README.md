@@ -30,11 +30,13 @@ Every commit compounds my skill.
 
 ## 📊 Evolution Metrics
 
-- 🎯 Goal: System-Level C++ Engineer
-- 🛠 Language: C / C++
-- 📅 Started: 2026
-- 🔁 Updated: Daily
-- 🧠 Focus: DSA + Low-Level Systems + Engineering Thinking
+| Metric | Value |
+|--------|-------|
+| 🎯 Target | System-Level C++ Engineer |
+| 🛠 Core Stack | C / C++ (C++20 focus) |
+| 📅 Started | 2026 |
+| 🔁 Cadence | Daily |
+| 🧠 Focus | DSA · Low-Level Systems · Engineering Thinking |
 
 ## 📊 Evolution Tracker
 
