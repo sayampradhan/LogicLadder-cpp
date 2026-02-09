@@ -7,7 +7,7 @@
 **Total Problems:** 86  
 **Problems Conquered:** <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT -->  
 **Completion:** <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->%
-
+Progress:
 <!-- PROGRESS_BAR -->
 [█░░░░░░░░░░░░░░░░░░░] 5.81%
 <!-- /PROGRESS_BAR -->
