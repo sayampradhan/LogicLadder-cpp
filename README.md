@@ -34,14 +34,12 @@ This is a **public log of evolution**.
 <!-- 
 ## 📊 Evolution Dashboard -->
 
-Progress compounds. Consistency wins.
-
-## 🔥 Evolution Meter
-
 Progress:
 <!-- PROGRESS_BAR -->
 [█░░░░░░░░░░░░░░░░░░░] 5.81%
 <!-- /PROGRESS_BAR -->
+
+Progress compounds. Consistency wins.
 
 ## ⚡ Growth Principle
 This repository grows every single day.  
