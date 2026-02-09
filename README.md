@@ -4,14 +4,15 @@
 ![Standard](https://img.shields.io/badge/Standard-C++20-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-|**Total Problems:** | 86  |
-|**Problems Conquered:** | <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT --> |  
-|**Completion:** | <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->% |
+## 📊 Evolution Tracker
 
-Progress:  
-<!-- PROGRESS_BAR -->
-[█░░░░░░░░░░░░░░░░░░░] 5.81%
-<!-- /PROGRESS_BAR -->
+| Metric | Value |
+|:---------------------|:------:|
+| Total Problems | 86 |
+| Problems Conquered | <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT --> |
+| Completion | <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->% |
+| Progress Bar | <!-- PROGRESS_BAR -->[█░░░░░░░░░░░░░░░░░░░] 5.81%<!-- /PROGRESS_BAR --> |
+
 
 > This repository documents my transformation  
 > from an absolute beginner in C++  
