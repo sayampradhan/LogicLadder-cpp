@@ -1,0 +1,48 @@
+name: Update Progress
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Count solved problems
+        id: count
+        run: |
+          SOLVED=$(grep -o "\- \[x\]" README.md | wc -l)
+          echo "solved=$SOLVED" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          TOTAL=86
+          SOLVED=${{ steps.count.outputs.solved }}
+          PERCENT=$(awk "BEGIN {printf \"%.2f\", ($SOLVED/$TOTAL)*100}")
+
+          BLOCKS=$(awk "BEGIN {print int($PERCENT/5)}")
+
+          BAR=""
+          for ((i=0;i<20;i++)); do
+            if [ $i -lt $BLOCKS ]; then
+              BAR="${BAR}█"
+            else
+              BAR="${BAR}░"
+            fi
+          done
+
+          sed -i "s/<!-- SOLVED_COUNT -->.*<!-- \/SOLVED_COUNT -->/<!-- SOLVED_COUNT -->$SOLVED<!-- \/SOLVED_COUNT -->/" README.md
+          sed -i "s/<!-- PROGRESS_PERCENT -->.*<!-- \/PROGRESS_PERCENT -->/<!-- PROGRESS_PERCENT -->$PERCENT<!-- \/PROGRESS_PERCENT -->/" README.md
+          sed -i "/<!-- PROGRESS_BAR -->/,/<!-- \/PROGRESS_BAR -->/c\\<!-- PROGRESS_BAR -->\n[$BAR] $PERCENT%\n<!-- /PROGRESS_BAR -->" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto update progress" || echo "No changes"
+          git push
