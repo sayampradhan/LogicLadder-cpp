@@ -4,9 +4,9 @@
 ![Standard](https://img.shields.io/badge/Standard-C++20-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-**Total Problems:** 86  
-**Problems Conquered:** <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT -->  
-**Completion:** <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->%
+|**Total Problems:** | 86  
+|**Problems Conquered:** | <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT -->  
+|**Completion:** | <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->%
 
 Progress:  
 <!-- PROGRESS_BAR -->
