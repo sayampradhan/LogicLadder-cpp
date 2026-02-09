@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # ⚔️ CPP-EVOLUTION  
@@ -13,13 +12,12 @@
 </div>
 
 ---
+This is not a collection of problems.  
+This is a **public log of evolution**.
 
 > This repository documents my transformation  
 > from an absolute beginner in C++  
 > to advanced DSA & system-level programming.
-
-This is not a collection of problems.  
-This is a **public log of evolution**.
 
 | Category | Status |
 |--------|-------|
