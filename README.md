@@ -1,19 +1,29 @@
-# ⚔️ cpp-evolution — From Zero to System-Level C++ Mastery
 
+# ⚔️ cpp-evolution — From Zero to System-Level C++ Mastery
 ![Language](https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Standard](https://img.shields.io/badge/Standard-C++20-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+
+**Total Problems:** 86  
+**Problems Conquered:** <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT -->  
+**Completion:** <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->%
+
+Progress:
+<!-- PROGRESS_BAR -->
+[█░░░░░░░░░░░░░░░░░░░] 5.81%
+<!-- /PROGRESS_BAR -->
 
 > This repository documents my transformation  
 > from an absolute beginner in C++  
 > to advanced DSA & system-level programming.
 
-**Total Problems:** 86  
-**Problems Conquered:** <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT -->  
-**Completion:** **<!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->%**
-
 This is not a collection of problems.  
 This is a **public log of evolution**.
+
+## ⚡ Growth Principle
+This repository grows every single day.  
+Every solved problem sharpens my thinking.  
+Every commit compounds my skill.
 
 ## 📊 Evolution Metrics
 
@@ -25,26 +35,9 @@ This is a **public log of evolution**.
 | 🔁 Cadence | Daily |
 | 🧠 Focus | DSA · Low-Level Systems · Engineering Thinking |
 
-## ⚡ Growth Principle
-
-This repository grows every single day.  
-Every solved problem sharpens my thinking.  
-Every commit compounds my skill.
-
-
-<!-- ## 📊 Evolution Tracker -->
-
 Progress compounds. Consistency wins.
 
-
-## 🧠 Philosophy
-
-Discipline > Motivation  
-Consistency > Talent  
-Depth > Speed  
-
-I build foundations.
-
+---
 
 ## 🟢 PHASE 1 — Foundations of Logic
 
@@ -158,7 +151,9 @@ I build foundations.
 - [ ] Build a simple HTTP server  
 - [ ] Trie implementation  
 - [ ] Segment tree  
-- [ ] Dijkstra’s algorithm  
+- [ ] Dijkstra’s algorithm
+
+
 
 ## 🧠 Bonus: Project-Level Practice
 
@@ -170,6 +165,8 @@ I build foundations.
 - [ ] Snake game (console-based)  
 - [ ] Sudoku game  
 - [ ] Chat system using sockets  
+
+---
 
 # 🧠 Engineering Laws
 
@@ -202,6 +199,8 @@ By this tracker reaches 100%, I will be able to:
 - Write production-grade C++
 - Build multi-threaded systems
 - Think in algorithms naturally
+
+---
 
 ⚔️ This repository is not about solving problems.  
 
