@@ -8,9 +8,6 @@
 > from an absolute beginner in C++  
 > to advanced DSA & system-level programming.
 
-This is not a collection of problems.  
-This is a **public log of evolution**.
-
 ## 📊 Evolution Metrics
 
 | Metric | Value |
@@ -21,11 +18,15 @@ This is a **public log of evolution**.
 | 🔁 Cadence | Daily |
 | 🧠 Focus | DSA · Low-Level Systems · Engineering Thinking |
 
+This is not a collection of problems.  
+This is a **public log of evolution**.
+
 ## ⚡ Growth Principle
 
 This repository grows every single day.  
 Every solved problem sharpens my thinking.  
 Every commit compounds my skill.
+
 
 ## 📊 Evolution Tracker
 
