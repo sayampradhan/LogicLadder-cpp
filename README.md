@@ -11,12 +11,12 @@ The problems in this repo will be ticked each day after being solved to indicate
 ## 📊 Progress Tracker
 
 **Total Problems:** 86  
-**Problems Solved:** <!-- SOLVED_COUNT -->3<!-- /SOLVED_COUNT -->  
-**Completion:** <!-- PROGRESS_PERCENT -->3.49<!-- /PROGRESS_PERCENT -->%
+**Problems Solved:** <!-- SOLVED_COUNT -->2<!-- /SOLVED_COUNT -->  
+**Completion:** <!-- PROGRESS_PERCENT -->2.33<!-- /PROGRESS_PERCENT -->%
 
 Progress:
 <!-- PROGRESS_BAR -->
-[░░░░░░░░░░░░░░░░░░░░] 3.49%
+[░░░░░░░░░░░░░░░░░░░░] 2.33%
 <!-- /PROGRESS_BAR -->
 
 ---
@@ -29,7 +29,7 @@ Progress:
 - [x] Check if a number is positive, negative, or zero  
 - [x] Find the largest of 3 numbers  
 - [x] Check if a year is a leap year  
-- [ ] Reverse a number (123 → 321)  
+- [x] Reverse a number (123 → 321)  
 - [ ] Count digits in a number  
 - [ ] Sum of digits of a number  
 - [ ] Check if a number is a palindrome  
