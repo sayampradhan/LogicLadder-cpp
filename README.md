@@ -1,17 +1,18 @@
 
-# ⚔️ cpp-evolution — From Zero to System-Level C++ Mastery
-![Language](https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Standard](https://img.shields.io/badge/Standard-C++20-blue)
-![Status](https://img.shields.io/badge/Status-Active-success)
+<div align="center">
 
-**Total Problems:** 86  
-**Problems Conquered:** <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT -->  
-**Completion:** <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->%
+# ⚔️ CPP-EVOLUTION  
+### From Zero → System-Level C++ Mastery
 
-Progress:
-<!-- PROGRESS_BAR -->
-[█░░░░░░░░░░░░░░░░░░░] 5.81%
-<!-- /PROGRESS_BAR -->
+<p>
+  <img src="https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Standard-C++20-blue" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+</p>
+
+</div>
+
+---
 
 > This repository documents my transformation  
 > from an absolute beginner in C++  
@@ -29,13 +30,23 @@ Every commit compounds my skill.
 
 | Metric | Value |
 |--------|-------|
-| 🎯 Target | System-Level C++ Engineer |
-| 🛠 Core Stack | C / C++ (C++20 focus) |
-| 📅 Started | 2026 |
-| 🔁 Cadence | Daily |
-| 🧠 Focus | DSA · Low-Level Systems · Engineering Thinking |
+| 🧠 **Total Problems** | 86 |
+| ⚔️ **Problems Conquered** | <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT --> |
+| 📈 **Completion** | <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->% |
+| 🎯 **Target** | System-Level C++ Engineer |
+| 🛠 **Core Stack** | C / C++ (C++20 focus) |
+| 📅 **Started** | 2026 |
+| 🔁 **Cadence** | Daily |
+| 🧠 **Focus** | DSA · Low-Level Systems · Engineering Thinking |
 
 Progress compounds. Consistency wins.
+
+## 🔥 Evolution Meter
+
+Progress:
+<!-- PROGRESS_BAR -->
+[█░░░░░░░░░░░░░░░░░░░] 5.81%
+<!-- /PROGRESS_BAR -->
 
 ---
 
