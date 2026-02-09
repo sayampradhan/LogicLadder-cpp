@@ -56,7 +56,7 @@ Every commit compounds my skill.
 - [x] Find the largest of 3 numbers  
 - [x] Check if a year is a leap year  
 - [x] Reverse a number (123 → 321)  
-- [ ] Count digits in a number  
+- [x] Count digits in a number  
 - [ ] Sum of digits of a number  
 - [ ] Check if a number is a palindrome  
 - [ ] Print multiplication table of a number  
