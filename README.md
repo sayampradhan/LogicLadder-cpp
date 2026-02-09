@@ -26,7 +26,7 @@ Progress:
 **Focus:** cin, cout, variables, if-else, loops, operators.
 
 - [x] Print my full name 100 times  
-- [ ] Check if a number is positive, negative, or zero  
+- [x] Check if a number is positive, negative, or zero  
 - [ ] Find the largest of 3 numbers  
 - [ ] Check if a year is a leap year  
 - [ ] Reverse a number (123 → 321)  
