@@ -4,6 +4,14 @@
 ![Standard](https://img.shields.io/badge/Standard-C++20-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
+**Total Problems:** 86  
+**Problems Conquered:** <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT -->  
+**Completion:** <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->%
+
+**Progress:**  <!-- PROGRESS_BAR -->
+[█░░░░░░░░░░░░░░░░░░░] 5.81%
+<!-- /PROGRESS_BAR -->
+
 > This repository documents my transformation  
 > from an absolute beginner in C++  
 > to advanced DSA & system-level programming.
@@ -11,16 +19,7 @@
 This is not a collection of problems.  
 This is a **public log of evolution**.
 
-## 🧠 Philosophy
-
-Discipline > Motivation  
-Consistency > Talent  
-Depth > Speed  
-
-I build foundations.
-
 ## ⚡ Growth Principle
-
 This repository grows every single day.  
 Every solved problem sharpens my thinking.  
 Every commit compounds my skill.
@@ -34,17 +33,6 @@ Every commit compounds my skill.
 | 📅 Started | 2026 |
 | 🔁 Cadence | Daily |
 | 🧠 Focus | DSA · Low-Level Systems · Engineering Thinking |
-
-## 📊 Evolution Tracker
-
-**Total Problems:** 86  
-**Problems Conquered:** <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT -->  
-**Completion:** <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->%
-
-Progress:  
-<!-- PROGRESS_BAR -->
-[█░░░░░░░░░░░░░░░░░░░] 5.81%
-<!-- /PROGRESS_BAR -->
 
 Progress compounds. Consistency wins.
 
