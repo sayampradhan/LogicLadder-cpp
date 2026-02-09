@@ -48,21 +48,6 @@ Progress:
 
 Progress compounds. Consistency wins.
 
-## 🏗 Architecture of Mastery
-
-cpp-evolution/
-├── phase-1-foundations/
-├── phase-2-math/
-├── phase-3-dsa/
-├── phase-4-recursion/
-├── phase-5-oop/
-├── phase-6-stl/
-└── phase-7-systems/
-
-
-Each phase builds on the previous. No shortcuts.
-
-
 
 ## 🟢 PHASE 1 — Foundations of Logic
 
