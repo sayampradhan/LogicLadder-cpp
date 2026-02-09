@@ -8,6 +8,7 @@ This is not a collection of problems.
 This is a **public log of evolution**.
 
 ---
+
 ## 📊 Journey Metrics
 
 - 🎯 Goal: System-Level C++ Engineer
@@ -16,7 +17,6 @@ This is a **public log of evolution**.
 - 🔁 Updated: Daily
 - 🧠 Focus: DSA + Low-Level Systems + Engineering Thinking
 
----
 ## 🧠 Philosophy
 
 Discipline > Motivation  
@@ -25,24 +25,23 @@ Depth > Speed
 
 I build foundations.
 
----
 ## ⚡ Growth Principle
 
 This repository grows every single day.  
 Every solved problem sharpens my thinking.  
 Every commit compounds my skill.
 
-
 ---
+
 ## 📊 Evolution Tracker
 
 **Total Problems:** 86  
 **Problems Conquered:** <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT -->  
 **Completion:** <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->%
 
-Progress:
+Progress:  
 <!-- PROGRESS_BAR -->
-[█░░░░░░░░░░░░░░░░░░░] 5.81%
+[█░░░░░░░░░░░░░░░░░░░] 5.81%  
 <!-- /PROGRESS_BAR -->
 
 ---
@@ -60,9 +59,7 @@ Progress:
 - [ ] Sum of digits of a number  
 - [ ] Check if a number is a palindrome  
 - [ ] Print multiplication table of a number  
-- [ ] Print patterns (Right triangle, Pyramid, Diamond)  
-
----
+- [ ] Print patterns (Right triangle, Pyramid, Diamond)
 
 ## 🟡 PHASE 2 — Mathematical Thinking
 
@@ -79,11 +76,9 @@ Progress:
 - [ ] Perfect number checker  
 - [ ] Build a basic number guessing game  
 
----
-
 ## 🟠 PHASE 3 — Data Structures Core
 
-## 🔹 Arrays
+### 🔹 Arrays
 
 - [ ] Find second largest element  
 - [ ] Remove duplicates from array  
@@ -94,9 +89,9 @@ Progress:
 - [ ] Merge two sorted arrays  
 - [ ] Implement Binary Search  
 - [ ] Count frequency of elements  
-- [ ] Stock buy-sell (maximum profit)  
+- [ ] Stock buy-sell (maximum profit)
 
-## 🔹 Strings
+### 🔹 Strings
 
 - [ ] Check anagram  
 - [ ] Reverse string without built-in reverse  
@@ -105,9 +100,7 @@ Progress:
 - [ ] Remove spaces  
 - [ ] Check substring manually  
 - [ ] String compression (aaabb → a3b2)  
-- [ ] Longest palindrome substring (brute force)  
-
----
+- [ ] Longest palindrome substring (brute force)
 
 ## 🔵 PHASE 4 — Recursion & Algorithmic Depth
 
@@ -124,8 +117,6 @@ Progress:
 - [ ] Merge sort  
 - [ ] Quick sort  
 
----
-
 ## 🟣 PHASE 5 — Object-Oriented Architecture
 
 **Focus:** Classes, constructors, destructors, inheritance, polymorphism.
@@ -140,8 +131,6 @@ Progress:
 - [ ] Diamond problem demonstration  
 - [ ] File handling project  
 - [ ] Mini ATM simulation  
-
----
 
 ## 🔴 PHASE 6 — STL & Competitive Edge
 
@@ -158,8 +147,6 @@ Progress:
 - [ ] BFS and DFS  
 - [ ] Detect cycle in graph  
 
----
-
 ## ⚫ PHASE 7 — Systems & Engineering Mastery
 
 - [ ] Implement my own vector class  
@@ -175,7 +162,7 @@ Progress:
 
 ---
 
-# 🧠 Bonus: Project-Level Practice
+## 🧠 Bonus: Project-Level Practice
 
 - [ ] Command line calculator  
 - [ ] Mini compiler (tokenizer)  
@@ -186,9 +173,7 @@ Progress:
 - [ ] Sudoku game  
 - [ ] Chat system using sockets  
 
----
-
-# 🔥 Engineering Rules I Follow
+## 🔥 Engineering Rules I Follow
 
 1. No skipping fundamentals.
 2. No copy-paste learning.
@@ -198,12 +183,9 @@ Progress:
 6. Push only clean commits.
 7. Think like an engineer, not just a coder.
 
----
-
 ## 🧭 Why This Exists
 
-Most people consume tutorials.
-
+Most people consume tutorials.  
 Few build depth.
 
 This repository exists to:
@@ -212,8 +194,6 @@ This repository exists to:
 - Develop systems intuition
 - Track visible progress
 - Stay accountable publicly
-
----
 
 ## 🚀 End Vision
 
@@ -227,6 +207,6 @@ By the end of this journey, I will be able to:
 
 ---
 
-⚔️ This repository is not about solving problems.
+⚔️ This repository is not about solving problems.  
 
 It is about building a mind capable of solving anything.
