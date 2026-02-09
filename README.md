@@ -177,7 +177,7 @@ cpp-evolution/
 - [ ] Segment tree  
 - [ ] Dijkstra’s algorithm  
 
----
+...
 
 ## 🧠 Bonus: Project-Level Practice
 
@@ -190,15 +190,17 @@ cpp-evolution/
 - [ ] Sudoku game  
 - [ ] Chat system using sockets  
 
-## 🔥 Engineering Rules I Follow
+---
 
-1. No skipping fundamentals.
-2. No copy-paste learning.
-3. Rewrite from memory.
-4. Analyze time & space complexity.
-5. Refactor ugly code.
-6. Push only clean commits.
-7. Think like an engineer, not just a coder.
+# 🧠 Engineering Laws
+
+1. Fundamentals are non-negotiable  
+2. No blind copy-paste  
+3. Rewrite from memory  
+4. Analyze time & space  
+5. Refactor aggressively  
+6. Clean commits only  
+7. Think like a systems engineer  
 
 ## 🧭 Why This Exists
 
@@ -212,9 +214,9 @@ This repository exists to:
 - Track visible progress
 - Stay accountable publicly
 
-## 🚀 End Vision
+## 🚀 End State
 
-By the end of this journey, I will be able to:
+By this tracker reaches 100%, I will be able to:
 
 - Design efficient data structures from scratch
 - Understand memory layout & performance trade-offs
