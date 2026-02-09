@@ -8,15 +8,16 @@ The problems in this repo will be ticked each day after being solved to indicate
 
 ---
 
-# 📊 Progress Tracker
+## 📊 Progress Tracker
 
 **Total Problems:** 86  
-**Problems Solved:** 0  
-**Completion:** 0%
+**Problems Solved:** <!-- SOLVED_COUNT -->0<!-- /SOLVED_COUNT -->  
+**Completion:** <!-- PROGRESS_PERCENT -->0<!-- /PROGRESS_PERCENT -->%
 
-## 🔥 Visual Progress
-
-`[░░░░░░░░░░░░░░░░░░░░] 0%`
+Progress:
+<!-- PROGRESS_BAR -->
+[░░░░░░░░░░░░░░░░░░░░] 0%
+<!-- /PROGRESS_BAR -->
 
 ---
 
@@ -24,7 +25,7 @@ The problems in this repo will be ticked each day after being solved to indicate
 
 **Focus:** cin, cout, variables, if-else, loops, operators.
 
-- [ ] Print my full name 100 times  
+- [x] Print my full name 100 times  
 - [ ] Check if a number is positive, negative, or zero  
 - [ ] Find the largest of 3 numbers  
 - [ ] Check if a year is a leap year  
