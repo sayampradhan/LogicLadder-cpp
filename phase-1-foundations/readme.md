@@ -2,7 +2,7 @@
 
 # 🟢 PHASE 1 — FOUNDATIONS OF LOGIC
 
-██████████ **100%**
+██████████ ***100%***
 
 ### The Discipline of Control Flow
 
