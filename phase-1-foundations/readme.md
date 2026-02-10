@@ -45,8 +45,6 @@ In this phase, I trained myself to:
 
 ## 📂 Problems Conquered
 
-██████████ 100%
-
 | # | Problem | Core Concept |
 |---|---------|--------------|
 | 1 | Print full name 100 times | Loop fundamentals |
@@ -62,45 +60,6 @@ In this phase, I trained myself to:
 
 ---
 
-## 📂 Problems Conquered
+## 📈 Phase Completion
 
-### 🧩 Core Logic Drills
-
-- [x] Print full name 100 times  
-  ⤷ Focus: Loop fundamentals  
-
-- [x] Check positive / negative / zero  
-  ⤷ Focus: if-else logic  
-
-- [x] Find largest of 3 numbers  
-  ⤷ Focus: Conditional comparison  
-
-- [x] Leap year checker  
-  ⤷ Focus: Logical operators  
-
----
-
-### 🔢 Number Manipulation
-
-- [x] Reverse a number (123 → 321)  
-  ⤷ Focus: Digit extraction  
-
-- [x] Count digits in a number  
-  ⤷ Focus: Loop + division  
-
-- [x] Sum of digits  
-  ⤷ Focus: Accumulation pattern  
-
-- [x] Check palindrome number  
-  ⤷ Focus: Reverse + comparison  
-
----
-
-### 🔁 Loop Strengthening
-
-- [x] Print multiplication table  
-  ⤷ Focus: Iterative structure  
-
-- [x] Print patterns (Triangle, Pyramid, Diamond)  
-  ⤷ Focus: Nested loops mastery
-
+██████████ 100%
