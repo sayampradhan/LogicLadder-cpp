@@ -62,9 +62,6 @@ Every commit compounds my skill.
 - [x] Print multiplication table of a number  
 - [x] Print patterns (Right triangle, Pyramid, Diamond)
 
-
----
-
 <div align="center">
 
 # 🏟️ PATTERN ARENA  
@@ -81,8 +78,6 @@ Every commit compounds my skill.
 > Structure is everything.”
 
 </div>
-
----
 
 ## 🟩 PHASE 1.5 — Exploring Patterns
 
