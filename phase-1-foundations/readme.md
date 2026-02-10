@@ -43,6 +43,12 @@ In this phase, I trained myself to:
 
 ---
 
+## 📈 Phase Completion
+
+██████████ 100%
+
+---
+
 ## 📂 Problems Conquered
 
 | # | Problem | Core Concept |
@@ -57,9 +63,3 @@ In this phase, I trained myself to:
 | 8 | Palindrome number | Reverse + comparison |
 | 9 | Multiplication table | Nested structure |
 | 10 | Pattern printing (Triangle, Pyramid, Diamond) | Nested loops mastery |
-
----
-
-## 📈 Phase Completion
-
-██████████ 100%
