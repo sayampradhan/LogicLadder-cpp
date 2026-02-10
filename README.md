@@ -58,7 +58,7 @@ Every commit compounds my skill.
 - [x] Reverse a number (123 → 321)  
 - [x] Count digits in a number  
 - [x] Sum of digits of a number  
-- [ ] Check if a number is a palindrome  
+- [x] Check if a number is a palindrome  
 - [ ] Print multiplication table of a number  
 - [ ] Print patterns (Right triangle, Pyramid, Diamond)
 
