@@ -62,6 +62,63 @@ Every commit compounds my skill.
 - [x] Print multiplication table of a number  
 - [x] Print patterns (Right triangle, Pyramid, Diamond)
 
+
+---
+
+<div align="center">
+
+# 🏟️ PATTERN ARENA  
+### Loop Control • Symmetry • Index Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Nested_Loops-8A2BE2" />
+  <img src="https://img.shields.io/badge/Mastery-Space_Control-blue" />
+  <img src="https://img.shields.io/badge/Skill-Symmetry_Logic-success" />
+  <img src="https://img.shields.io/badge/Discipline-Pattern_Math-critical" />
+</p>
+
+> “Stars are irrelevant.  
+> Structure is everything.”
+
+</div>
+
+---
+
+## 🟩 PHASE 1.5 — Exploring Patterns
+
+**Focus:** Nested loops mastery · Space handling · Symmetry logic · Pattern math thinking
+
+> Patterns are not about stars.  
+> They are about controlling loops, indices, and structure.
+
+### 🔹 Basic Patterns
+- [x] Right-angled triangle  
+- [x] Pyramid  
+- [x] Diamond  
+- [ ] Inverted right triangle  
+- [ ] Half pyramid (numbers)  
+- [ ] Floyd’s triangle  
+- [ ] 0-1 triangle  
+
+### 🔹 Intermediate Patterns
+- [ ] Hollow pyramid  
+- [ ] Hollow diamond  
+- [ ] Butterfly pattern  
+- [ ] Sandglass pattern  
+- [ ] Pascal’s triangle  
+- [ ] Palindromic number pyramid  
+- [ ] Rhombus pattern  
+
+### 🔹 Advanced Pattern Thinking
+- [ ] Hollow butterfly  
+- [ ] Spiral matrix print  
+- [ ] Zig-zag matrix  
+- [ ] Pattern using recursion  
+- [ ] Pattern without nested loops  
+
+🧠 Goal:  
+Master space-star balance, index mathematics, and symmetry reasoning.
+
 ## 🟡 PHASE 2 — Mathematical Thinking
 
 **Focus:** Nested loops, mathematical thinking, problem-solving.
