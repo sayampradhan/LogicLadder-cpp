@@ -10,13 +10,11 @@
   <img src="https://img.shields.io/badge/Status-Completed-success" />
 </p>
 
+██████████ 100%
+
 > This phase is where syntax becomes thinking.
 
 </div>
-
-## 📈 Phase Completion
-
-██████████ 100%
 
 ## 🎯 Objective
 
