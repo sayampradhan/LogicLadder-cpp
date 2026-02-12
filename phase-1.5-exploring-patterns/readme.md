@@ -41,8 +41,7 @@ This phase strengthens raw loop precision.
 - [x] Pyramid  
 - [x] Diamond
 - [x] Rectangle  
-
-- [ ] Inverted right triangle  
+- [x] More on half-pyramid (or right-triangle) 
 - [ ] Half pyramid (numbers)  
 - [ ] Floyd’s triangle  
 - [ ] 0-1 triangle
