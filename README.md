@@ -26,7 +26,7 @@ This is a **public log of evolution**.
 | 📅 **Started** | 2026 |
 | 🔁 **Cadence** | Daily |
 | 🧠 **Focus** | DSA · Low-Level Systems · Engineering Thinking |
-| 🧠 **Total Problems** | 86 |
+| 🧠 **Total Problems** | 106 |
 | ⚔️ **Problems Conquered** | <!-- SOLVED_COUNT -->16<!-- /SOLVED_COUNT --> |
 | 📈 **Completion** | <!-- PROGRESS_PERCENT -->18.60<!-- /PROGRESS_PERCENT -->% |
 
