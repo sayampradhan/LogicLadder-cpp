@@ -28,14 +28,14 @@ This is a **public log of evolution**.
 | 🧠 **Focus** | DSA · Low-Level Systems · Engineering Thinking |
 | 🧠 **Total Problems** | 106 |
 | ⚔️ **Problems Conquered** | <!-- SOLVED_COUNT -->16<!-- /SOLVED_COUNT --> |
-| 📈 **Completion** | <!-- PROGRESS_PERCENT -->18.60<!-- /PROGRESS_PERCENT -->% |
+| 📈 **Completion** | <!-- PROGRESS_PERCENT -->15.09<!-- /PROGRESS_PERCENT -->% |
 
 <!-- 
 ## 📊 Evolution Dashboard -->
 
 Progress:
 <!-- PROGRESS_BAR -->
-[███░░░░░░░░░░░░░░░░░] 18.60%
+[███░░░░░░░░░░░░░░░░░] 15.09%
 <!-- /PROGRESS_BAR -->
 
 Progress compounds. Consistency wins.
