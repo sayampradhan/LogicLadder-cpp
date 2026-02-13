@@ -2,7 +2,9 @@
 
 # 🟩 PHASE 1.5 — EXPLORING PATTERNS
 
-████░░░░░░ 35%
+<!-- PROGRESS_BAR -->
+[███░░░░░░░░░░░░░░░░░] 15.09%
+<!-- /PROGRESS_BAR -->
 
 ### Loop Control • Space Handling • Symmetry Engineering
 
