@@ -35,7 +35,7 @@ This is a **public log of evolution**.
 
 Progress:
 <!-- PROGRESS_BAR -->
-[███░░░░░░░░░░░░░░░░░] 17.44%
+[████░░░░░░] 35%
 <!-- /PROGRESS_BAR -->
 
 Progress compounds. Consistency wins.
