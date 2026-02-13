@@ -1,10 +1,7 @@
 <div align="center">
 
 # 🟩 PHASE 1.5 — EXPLORING PATTERNS
-
-<!-- PROGRESS_BAR -->
 [███░░░░░░░░░░░░░░░░░] 35%
-<!-- /PROGRESS_BAR -->
 
 ### Loop Control • Space Handling • Symmetry Engineering
 
@@ -46,11 +43,11 @@ This phase strengthens raw loop precision.
 - [x] More on half-pyramid (or right-triangle) 
 - [x] Half pyramid (numbers)  
 - [x] Floyd’s triangle  
-- [x] 0-1 triangle
+- [ ] 0-1 triangle
 
 ### 🔹 Intermediate Patterns
 
-- [x] Hollow pyramid  
+- [ ] Hollow pyramid  
 - [ ] Hollow diamond  
 - [ ] Butterfly pattern  
 - [ ] Sandglass pattern  
