@@ -76,11 +76,11 @@ Every commit compounds my skill.
 - [x] Rectangle
 - [x] More on half-pyramid (or right-triangle) 
 - [x] Half pyramid (numbers)  
-- [ ] Floyd’s triangle  
-- [ ] 0-1 triangle  
+- [x] Floyd’s triangle  
+- [x] 0-1 triangle  
 
 ### 🔹 Intermediate Patterns
-- [ ] Hollow pyramid  
+- [x] Hollow pyramid  
 - [ ] Hollow diamond  
 - [ ] Butterfly pattern  
 - [ ] Sandglass pattern  
