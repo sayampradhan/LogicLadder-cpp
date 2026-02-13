@@ -50,7 +50,7 @@ This phase strengthens raw loop precision.
 
 ### 🔹 Intermediate Patterns
 
-- [ ] Hollow pyramid  
+- [x] Hollow pyramid  
 - [ ] Hollow diamond  
 - [ ] Butterfly pattern  
 - [ ] Sandglass pattern  
