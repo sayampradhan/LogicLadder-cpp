@@ -45,7 +45,7 @@ This phase strengthens raw loop precision.
 - [x] Rectangle  
 - [x] More on half-pyramid (or right-triangle) 
 - [x] Half pyramid (numbers)  
-- [ ] Floyd’s triangle  
+- [x] Floyd’s triangle  
 - [ ] 0-1 triangle
 
 ### 🔹 Intermediate Patterns
