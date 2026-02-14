@@ -29,6 +29,24 @@ void floyd(int n){
 
 main(){
 
-    floyd(5);
+    int rows;
 
+    cout<<"-----------FLOYD'S TRIANGLE----------";
+    cout<<endl<<endl;
+    cout<<"Enter the no. of rows: ";
+    cin>>rows;
+
+    while(true){
+        if(!(cin.fail())){
+            break;
+        }
+        else{
+            cin.clear();
+            cin.ignore(numeric_limits<streamsize>::max());
+            cout<<"Enter a valid integer: ";
+            cin>>rows;
+        }
+    }
+
+    floyd(rows);
 }
