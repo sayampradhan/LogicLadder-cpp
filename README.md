@@ -83,7 +83,7 @@ Every commit compounds my skill.
 - [x] Hollow half-pyramid
 - [x] Hollow pyramid  
 - [x] Hollow diamond  
-- [ ] Butterfly pattern  
+- [x] Butterfly pattern  
 - [ ] Sandglass pattern  
 - [ ] Pascal’s triangle  
 - [ ] Palindromic number pyramid  
