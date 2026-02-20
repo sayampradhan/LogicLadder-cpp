@@ -52,7 +52,7 @@ This phase strengthens raw loop precision.
 - [x] Hollow diamond  
 - [x] Butterfly pattern  
 - [x] Sandglass pattern  
-- [ ] Pascal’s triangle  
+- [x] Pascal’s triangle  
 - [ ] Palindromic number pyramid  
 - [ ] Rhombus pattern  
 
