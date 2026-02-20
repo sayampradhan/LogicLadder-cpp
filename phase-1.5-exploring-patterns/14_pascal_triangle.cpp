@@ -1,5 +1,7 @@
 #include<iostream>
 #include<limits>
+#include <iomanip>
+#include<string>
 using namespace std;
 
 /*
@@ -14,19 +16,23 @@ PASCAL'S TRIANGLE
 -------------------
 */
 
-void pascal_triangle(int n){
-    for (int i = 1; i <= n; i++){
-        int coefficient = 1;
-        for (int k = n-i; k>0; k--){
-            cout<<" ";
-        }
-        for (int j = 1; j <= i; j++){
-            cout<<coefficient<<" ";
-            coefficient=coefficient*(i-j)/j;
-        }
-        cout<<endl;
-    }
+void pascal_triangle(int n) {
+    int width = 4; 
 
+    for (int i = 1; i <= n; i++) {
+        int coefficient = 1;
+
+        for (int k = 0; k < n - i; k++) {
+            cout << string(width / 2, ' '); 
+        }
+
+        for (int j = 1; j <= i; j++) {
+            cout << setw(width) << coefficient;
+            coefficient = coefficient * (i - j) / j;
+        }
+        
+        cout << endl;
+    }
 }
 
 main(){
