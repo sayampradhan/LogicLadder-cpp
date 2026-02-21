@@ -53,7 +53,7 @@ This phase strengthens raw loop precision.
 - [x] Butterfly pattern  
 - [x] Sandglass pattern  
 - [x] Pascal’s triangle  
-- [ ] Palindromic number pyramid  
+- [x] Palindromic number pyramid  
 - [ ] Rhombus pattern  
 
 ### 🔹 Advanced Pattern Thinking
