@@ -44,10 +44,35 @@ void rhombus(int n){
 }
 
 void parallelogram(int n){
-
+    for (int i = 1; i <= n; i++){
+        for (int space = n - i; space >= 1; space--){
+            cout<<" ";
+        }
+        for (int element = 0; element <= n + 3; element++){
+            cout<<"* ";
+        }
+        cout<<endl;
+    }
 }
 
-
 main(){
-    rhombus(5);
+    int row; 
+    int choice;
+    cout<<"--------------------------"<<endl<<"Pattern Menu"<<endl<<"--------------------------"<<endl<<"1. Rhombus"<<endl<<"2. Parallelogram"<<endl<<"--------------------------"<<endl<<endl<<"Enter your choice: ";
+    cin>>choice;
+    cout<<endl<<endl;
+    if (choice == 1){
+        cout<<"\nEnter the no of rows: ";
+        cin>>row;
+        rhombus(row);
+    }
+    else if (choice == 2){
+        cout<<"\nEnter the no of rows: ";
+        cin>>row;
+        parallelogram(row);
+    }
+    else{
+        cout<<"Invalid choice";
+    }
+    
 }
