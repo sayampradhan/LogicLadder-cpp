@@ -87,7 +87,7 @@ Every commit compounds my skill.
 - [x] Sandglass pattern  
 - [x] Pascal’s triangle  
 - [x] Palindromic number pyramid  
-- [ ] Rhombus pattern  
+- [x] Rhombus pattern  
 
 ### 🔹 Advanced Pattern Thinking
 - [ ] Hollow butterfly  
