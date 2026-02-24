@@ -59,7 +59,7 @@ This phase strengthens raw loop precision.
 ### 🔹 Advanced Pattern Thinking
 
 - [x] Hollow butterfly  
-- [ ] Spiral matrix print  
+- [x] Spiral matrix print  
 - [ ] Zig-zag matrix  
 - [ ] Pattern using recursion  
 - [ ] Pattern without nested loops   
