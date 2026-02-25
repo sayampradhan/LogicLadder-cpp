@@ -60,7 +60,7 @@ This phase strengthens raw loop precision.
 
 - [x] Hollow butterfly  
 - [x] Spiral matrix print  
-- [ ] Zig-zag matrix  
+- [x] Zig-zag matrix  
 - [ ] Pattern using recursion  
 - [ ] Pattern without nested loops   
 
