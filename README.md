@@ -92,7 +92,7 @@ Every commit compounds my skill.
 ### 🔹 Advanced Pattern Thinking
 - [x] Hollow butterfly  
 - [x] Spiral matrix print  
-- [ ] Zig-zag matrix  
+- [x] Zig-zag matrix  
 - [ ] Pattern using recursion  
 - [ ] Pattern without nested loops  
 
