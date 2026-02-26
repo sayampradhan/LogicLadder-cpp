@@ -101,7 +101,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 
 **Focus:** Nested loops, mathematical thinking, problem-solving.
 
-- [ ] Print all prime numbers from 1 to N  
+- [x] Print all prime numbers from 1 to N  
 - [ ] Check if a number is Armstrong  
 - [ ] Find GCD and LCM  
 - [ ] Generate Fibonacci series  
