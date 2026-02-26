@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Focus-Nested_Loops-8A2BE2" />
   <img src="https://img.shields.io/badge/Mastery-Space_Control-blue" />
   <img src="https://img.shields.io/badge/Skill-Symmetry_Logic-success" />
-  <img src="https://img.shields.io/badge/Status-In_Progress-yellow" />
+  <img src="https://img.shields.io/badge/Status-Completed-success" />
 </p>
 
 > Patterns are not about stars.  
