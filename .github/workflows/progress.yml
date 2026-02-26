@@ -23,7 +23,7 @@ jobs:
 
       - name: Update README
         run: |
-          TOTAL=107
+          TOTAL=105
           SOLVED=${{ steps.count.outputs.solved }}
           PERCENT=$(awk "BEGIN {printf \"%.2f\", ($SOLVED/$TOTAL)*100}")
 

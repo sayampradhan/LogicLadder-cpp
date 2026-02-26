@@ -26,7 +26,7 @@ This is a **public log of evolution**.
 | 📅 **Started** | 2026 |
 | 🔁 **Cadence** | Daily |
 | 🧠 **Focus** | DSA · Low-Level Systems · Engineering Thinking |
-| 🧠 **Total Problems** | 107 |
+| 🧠 **Total Problems** | 105 |
 | ⚔️ **Problems Conquered** | <!-- SOLVED_COUNT -->29<!-- /SOLVED_COUNT --> |
 | 📈 **Completion** | <!-- PROGRESS_PERCENT -->27.10<!-- /PROGRESS_PERCENT -->% |
 
@@ -93,8 +93,6 @@ Every commit compounds my skill.
 - [x] Hollow butterfly  
 - [x] Spiral matrix print  
 - [x] Zig-zag matrix  
-- [ ] Pattern using recursion  
-- [ ] Pattern without nested loops  
 
 🧠 Goal:  
 Master space-star balance, index mathematics, and symmetry reasoning.

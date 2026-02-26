@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🟩 PHASE 1.5 — EXPLORING PATTERNS
-[██████████████████░░] 92%
+[████████████████████] 100%
 
 ### Loop Control • Space Handling • Symmetry Engineering
 
@@ -61,9 +61,6 @@ This phase strengthens raw loop precision.
 - [x] Hollow butterfly  
 - [x] Spiral matrix print  
 - [x] Zig-zag matrix  
-- [ ] Pattern using recursion  
-- [ ] Pattern without nested loops   
-
 ---
 
 ⚔️ This phase is where loops evolve into structural thinking.
