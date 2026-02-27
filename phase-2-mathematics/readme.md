@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🟡 PHASE 2 — MATHEMATICAL THINKING
-[██████░░░░░░░░░░░░░░] 10%
+[████████░░░░░░░░░░░░] 20%
 
 ### Number Theory • Logical Precision • Algorithmic Foundations
 
@@ -57,4 +57,4 @@ This phase transforms raw loop control into mathematical intelligence.
 
 ---
 
-⚔️ This phase is where loops evolve into mathematics.  
+⚔️ This phase is where loops evolve into mathematics.
