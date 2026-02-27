@@ -102,7 +102,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 **Focus:** Nested loops, mathematical thinking, problem-solving.
 
 - [x] Print all prime numbers from 1 to N  
-- [ ] Check if a number is Armstrong  
+- [x] Check if a number is Armstrong  
 - [ ] Find GCD and LCM  
 - [ ] Generate Fibonacci series  
 - [ ] Convert decimal to binary (without built-in functions)  
