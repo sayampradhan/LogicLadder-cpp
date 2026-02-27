@@ -39,7 +39,7 @@ This phase transforms raw loop control into mathematical intelligence.
 ### 🔹 Core Number Logic
 
 - [x] Print all prime numbers from 1 to N  
-- [ ] Check if a number is Armstrong  
+- [x] Check if a number is Armstrong  
 - [ ] Find GCD and LCM  
 - [ ] Generate Fibonacci series  
 - [ ] Convert decimal to binary (without built-in functions)  
