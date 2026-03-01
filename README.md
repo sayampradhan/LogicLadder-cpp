@@ -104,7 +104,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Print all prime numbers from 1 to N  
 - [x] Check if a number is Armstrong  
 - [x] Find GCD 
-- [ ] Find LCM  
+- [x] Find LCM  
 - [ ] Generate Fibonacci series  
 - [ ] Convert decimal to binary (without built-in functions)  
 - [ ] Print Pascal’s triangle  
