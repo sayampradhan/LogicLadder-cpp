@@ -108,7 +108,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Generate Fibonacci series  
 - [x] Convert decimal to binary (without built-in functions)  
 - [x] Print Pascal’s triangle  
-- [ ] Find factorial without recursion  
+- [x] Find factorial without recursion  
 - [ ] Strong number checker  
 - [ ] Perfect number checker  
 - [ ] Build a basic number guessing game  
