@@ -48,7 +48,7 @@ This phase transforms raw loop control into mathematical intelligence.
 ### 🔹 Numerical Pattern Systems
 
 - [x] Print Pascal’s triangle  
-- [ ] Find factorial without recursion  
+- [x] Find factorial without recursion  
 - [ ] Strong number checker  
 - [ ] Perfect number checker  
 
