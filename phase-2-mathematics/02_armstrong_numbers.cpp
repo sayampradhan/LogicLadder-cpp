@@ -34,6 +34,4 @@ main(){
     cin>>num;
 
     armstrong(num);
-
-    cout<<endl;
 }
