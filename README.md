@@ -109,7 +109,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Convert decimal to binary (without built-in functions)  
 - [x] Print Pascal’s triangle  
 - [x] Find factorial without recursion  
-- [ ] Strong number checker  
+- [x] Strong number checker  
 - [ ] Perfect number checker  
 - [ ] Build a basic number guessing game  
 
