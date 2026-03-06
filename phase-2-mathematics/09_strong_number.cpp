@@ -8,6 +8,7 @@ INPUT: 145
 OUTPUT: TRUE (if 1! + 4! + 5! = 145)
 */
 
+// strong number checker function
 bool strong_number(int n){
     int original_num = n;
     int sum_factorial = 0;
