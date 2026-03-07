@@ -13,8 +13,6 @@ using namespace std;
     5. If the sum matches the original number:
         i. Then number is perfect.
         ii. Otherwise, number is NOT perfect.
-
-
 */
 void perfect_number(int n){
     vector<int> divisors = {};
