@@ -18,6 +18,12 @@ void perfect_number(int n){
     vector<int> divisors = {};
     int sum = 0;
     int temp = 0;
+    for (int i = 0; i <= n; i++){
+    if (n % i == 0){
+        int temp = i;
+        divisors.push_back(temp);
+    }
+}
 }
 
 main(){
