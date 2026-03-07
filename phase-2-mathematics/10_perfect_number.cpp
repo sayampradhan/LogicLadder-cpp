@@ -35,8 +35,8 @@ void perfect_number(int n){
 
 main(){
     int n;
-    cout<<"-----------------------";
-    cout<<"PERFECT NUMBER CHECKER";
+    cout<<"-----------------------"<<endl;
+    cout<<"PERFECT NUMBER CHECKER"<<endl;
     cout<<"-----------------------";
     cout<<endl<<endl;
     cout<<"Enter a number: ";
