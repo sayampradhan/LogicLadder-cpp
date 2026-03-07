@@ -50,7 +50,7 @@ This phase transforms raw loop control into mathematical intelligence.
 - [x] Print Pascal’s triangle  
 - [x] Find factorial without recursion  
 - [x] Strong number checker  
-- [ ] Perfect number checker  
+- [x] Perfect number checker  
 
 ### 🔹 Applied Logic
 
