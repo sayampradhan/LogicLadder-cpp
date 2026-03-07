@@ -15,24 +15,8 @@ using namespace std;
         ii. Otherwise, number is NOT perfect.
 */
 void perfect_number(int n){
-
-}
-
-main(){
     vector<int> divisors;
     int sum = 0;
-    int n;
-    cout<<"-----------------------";
-    cout<<"PERFECT NUMBER CHECKER";
-    cout<<"-----------------------";
-    cout<<endl<<endl;
-    cout<<"Enter a number: ";
-    if (n > 0){
-        perfect_number(n);
-    }
-    else{
-        cout<<"Number must be greater than 0.";
-    }
     for (int i = 1; i <= n/2; i++){
         if (n % i == 0){
             divisors.push_back(i);
@@ -46,5 +30,20 @@ main(){
         cout << n << " is a Perfect number" << endl;
     } else {
         cout << n << " is NOT a Perfect number" << endl;
+    }
+}
+
+main(){
+    int n;
+    cout<<"-----------------------";
+    cout<<"PERFECT NUMBER CHECKER";
+    cout<<"-----------------------";
+    cout<<endl<<endl;
+    cout<<"Enter a number: ";
+    if (n > 0){
+        perfect_number(n);
+    }
+    else{
+        cout<<"Number must be greater than 0.";
     }
 }
