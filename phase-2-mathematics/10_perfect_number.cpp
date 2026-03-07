@@ -23,7 +23,7 @@ main(){
     int sum = 0;
     int n;
     cout<<"-----------------------";
-    cout<<"Enter a number:";
+    cout<<"PERFECT NUMBER CHECKER";
     cout<<"-----------------------";
     for (int i = 1; i <= n/2; i++){
         if (n % i == 0){
