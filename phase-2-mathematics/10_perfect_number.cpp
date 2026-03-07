@@ -23,7 +23,7 @@ void perfect_number(int n){
         int temp = i;
         divisors.push_back(temp);
     }
-}
+    }
 }
 
 main(){
