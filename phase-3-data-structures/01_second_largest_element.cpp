@@ -10,9 +10,8 @@ FOUR ALGORITHMS used to solve this problem are:
     4. Tournament Approach
 */
 
-void single_pass(int arr[]){
+void single_pass(int arr[], int length){
     int max1, max2;
-    int length = sizeof(arr)/sizeof(arr[0]);
     for (int i = 0; i < length; i++){
         if (arr[i]<arr[i+1]){
             int max2 = arr[i];
@@ -27,5 +26,6 @@ void single_pass(int arr[]){
 }
 
 main(){
-
+    int arr[] = {};
+    int size;
 }
