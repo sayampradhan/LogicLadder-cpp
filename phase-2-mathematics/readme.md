@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Focus-Number_Theory-FFB000" />
   <img src="https://img.shields.io/badge/Mastery-Mathematical_Logic-blue" />
   <img src="https://img.shields.io/badge/Skill-Problem_Solving-success" />
-  <img src="https://img.shields.io/badge/Status-Active-yellow" />
+  <img src="https://img.shields.io/badge/Status-Completed-success" />
 </p>
 
 > Logic becomes sharper  
