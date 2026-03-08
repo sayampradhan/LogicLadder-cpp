@@ -26,5 +26,6 @@ int random_number(int start, int end){
 
 // main function for executing the game.
 main(){
-
+    int start, end, random_number, guessed_number;
+    cou
 }
