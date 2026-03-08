@@ -50,7 +50,8 @@ main(){
             break;
         }
         if (guessed_number < random_number){
-            cout<<"The is lesser than what I have guessed."<<endl;
+            cout<<"The is lesser than what I have thought."<<endl;
+            cout<<"Try guessing a greater number."
         }
     }
 
