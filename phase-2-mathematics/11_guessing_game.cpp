@@ -20,6 +20,10 @@ BUILDING A GUESSING GAME
 
 // Function to generate a random number
 int random_number_generator(int start, int end){
+    /*
+    Earlier I wrote by myself, however, the random numbers didn't change.
+    Therefore, I used AI to enhance the code for change the random number generation with each execution.
+    */
     static random_device rd;
     // Combine hardware entropy with high-resolution time
     auto time_seed = chrono::high_resolution_clock::now().time_since_epoch().count();
