@@ -41,7 +41,7 @@ main(){
     cout<<"NUMBER GUESSING GAME..."<<endl;
     cout<<"--------------------------------------"<<endl;
     cout<<endl<<endl;
-    cout<<"------- ENTER A RANGE -------"<<endl;
+    cout<<"------- ENTER A RANGE --------"<<endl;
     cout<<"Enter the starting integer: ";
     cin>> start;
     cout<<"Enter the ending integer: ";
