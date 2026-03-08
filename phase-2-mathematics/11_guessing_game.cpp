@@ -45,17 +45,17 @@ main(){
     while(true){
         cin>>guessed_number;
         if (guessed_number==random_number){
-            cout<<"Ahhh... You guessed it right"<<endl;
-            cout<<"My guess was "<<random_number;
+            cout<<endl<<endl<<"Ahhh... You guessed it right"<<endl;
+            cout<<endl<<"My guess was "<<random_number;
             break;
         }
         if (guessed_number < random_number){
             cout<<"Ummm... The guessed number is lesser than what I have thought."<<endl;
-            cout<<"Try guessing a greater number."<<endl;
+            cout<<endl<<"Try guessing a greater number."<<endl;
         }
         if (guessed_number > random_number){
             cout<<"Ummm... The guessed number is greater than what I have thought."<<endl;
-            cout<<"Try guessing a smaller number."<<endl;
+            cout<<endl<<"Try guessing a smaller number."<<endl;
         }
         cout<<endl<<"Enter again: ";
     }
