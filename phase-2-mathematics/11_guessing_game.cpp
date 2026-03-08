@@ -16,7 +16,7 @@ BUILDING A GUESSING GAME
         - we will say, the number is little lesser.
 */
 
-
+// Function to generate a random number
 int random_number(int start, int end){
     random_device rd;
     mt19937 gen(rd());
