@@ -19,7 +19,7 @@ BUILDING A GUESSING GAME
 
 int random_number(int start, int end){
     random_device rd;
-    mt19937 gen(rd())
+    mt19937 gen(rd());
 
 }
 
