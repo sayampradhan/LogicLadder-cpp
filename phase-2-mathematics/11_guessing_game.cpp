@@ -20,7 +20,8 @@ BUILDING A GUESSING GAME
 int random_number(int start, int end){
     random_device rd;
     mt19937 gen(rd());
-
+    uniform_int_distribution<> distr(start, end);
+    return distr(gen);
 }
 
 main(){
