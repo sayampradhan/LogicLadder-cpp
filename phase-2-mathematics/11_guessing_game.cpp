@@ -17,7 +17,7 @@ BUILDING A GUESSING GAME
 */
 
 // Function to generate a random number
-int random_number(int start, int end){
+int random_number_generator(int start, int end){
     random_device rd;
     mt19937 gen(rd());
     uniform_int_distribution<> distr(start, end);
@@ -36,4 +36,10 @@ main(){
     cin>> start;
     cout<<"Enter the ending integer: ";
     cin>> end;
+
+    random_number = random_number_generator(start, end);
+
+    cout<<endl<<"Ummm... I have thought a number between "<<start<<" and "<<end;
+    cout<<endl<<"Now you guess it..."<<endl<<endl;
+    cout<<
 }
