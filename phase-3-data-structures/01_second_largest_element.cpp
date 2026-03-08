@@ -30,4 +30,8 @@ main(){
     int size;
     cout<<"Enter the length of the array: ";
     cin>>size;
+    for (int i = 0; i < size; i++){
+        cout<<"Enter the element "<<i<<": ";
+        
+    }
 }
