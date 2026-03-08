@@ -3,5 +3,9 @@
 using namespace std;
 
 int random_number(int start, int end){
+
+}
+
+main(){
     
 }
