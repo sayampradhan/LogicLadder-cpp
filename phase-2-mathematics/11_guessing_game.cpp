@@ -24,6 +24,7 @@ int random_number(int start, int end){
     return distr(gen);
 }
 
+// main function for executing the game.
 main(){
 
 }
