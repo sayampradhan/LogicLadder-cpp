@@ -54,7 +54,7 @@ This phase transforms raw loop control into mathematical intelligence.
 
 ### 🔹 Applied Logic
 
-- [ ] Build a basic number guessing game  
+- [x] Build a basic number guessing game  
 
 ---
 
