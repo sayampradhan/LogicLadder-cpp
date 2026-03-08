@@ -34,4 +34,5 @@ main(){
         cout<<"Enter the element "<<i<<": ";
         cin>>arr[i];
     }
+    single_pass(arr, size);
 }
