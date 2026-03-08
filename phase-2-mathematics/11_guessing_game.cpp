@@ -31,5 +31,7 @@ main(){
     cout<<"NUMBER GUESSING GAME...";
     cout<<"--------------------------------------"<<endl;
     cout<<endl<<endl;
-    
+    cout<<"------- ENTER A RANGE -------"<<endl;
+    cin>> start;
+    cin>> end;
 }
