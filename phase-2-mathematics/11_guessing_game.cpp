@@ -20,6 +20,7 @@ BUILDING A GUESSING GAME
 int random_number_generator(int start, int end){
     static random_device rd;
     static mt19937 gen(rd());
+    if (start > end) swap(start, end);
     uniform_int_distribution<> distr(start, end);
     return distr(gen);
 }
