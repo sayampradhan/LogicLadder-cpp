@@ -118,7 +118,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 ### 🔹 Arrays
 
 - [x] Find second largest element  
-- [ ] Remove duplicates from array  
+- [x] Remove duplicates from array  
 - [ ] Rotate array left/right  
 - [ ] Find missing number in 1–N  
 - [ ] Move all zeros to end  
