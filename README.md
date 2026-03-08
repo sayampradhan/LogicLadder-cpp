@@ -111,7 +111,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Find factorial without recursion  
 - [x] Strong number checker  
 - [x] Perfect number checker  
-- [ ] Build a basic number guessing game  
+- [x] Build a basic number guessing game  
 
 ## 🟠 PHASE 3 — Data Structures Core
 
