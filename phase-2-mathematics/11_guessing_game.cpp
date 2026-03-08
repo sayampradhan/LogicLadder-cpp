@@ -39,7 +39,7 @@ main(){
 
     random_number = random_number_generator(start, end);
 
-    cout<<endl<<"Ummm... I have thought a number between "<<start<<" and "<<end;
+    cout<<endl<<"Hmmm... I have thought a number between "<<start<<" and "<<end;
     cout<<endl<<"Now you guess it..."<<endl<<endl;
     cout<<"Enter your guess: ";
     while(true){
@@ -50,11 +50,11 @@ main(){
             break;
         }
         if (guessed_number < random_number){
-            cout<<"The guessed number is lesser than what I have thought."<<endl;
+            cout<<"Ummm... The guessed number is lesser than what I have thought."<<endl;
             cout<<"Try guessing a greater number.";
         }
         if (guessed_number > random_number){
-            cout<<"Umm... The guessed number is greater than what I have thought."<<endl;
+            cout<<"Ummm... The guessed number is greater than what I have thought."<<endl;
             cout<<"Try guessing a smaller number.";
         }
         cout<<"Enter again: ";
