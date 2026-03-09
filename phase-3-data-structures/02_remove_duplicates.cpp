@@ -16,7 +16,7 @@ bool isSorted(int arr[]){
 // Insertion sort for sorting the array
 void sortArray(int *arr){
     int length = sizeof(arr)/sizeof(arr[0]);
-    int temp = 0;
+    int key = arr[i];
     for (int i = 0; i < length; i++){
         if (arr[i]>arr[i+1]){
             temp = arr[i];
