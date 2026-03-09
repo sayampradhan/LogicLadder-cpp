@@ -48,7 +48,7 @@ int main() {
     cout << "Enter the size of the array: ";
     cin >> size;
 
-    cout<<endl<endl;
+    cout<<endl<<endl;
 
     int* arr = new int[size];   // allocate memory
 
