@@ -5,13 +5,11 @@ using namespace std;
 template <size_t N>
 bool isSorted(int (&arr)[N]){
     int length = N;
-    for (int i = 0; i < length; i++){
-        if (arr[i]<arr[i+1]){
-            return true;
-        }
-        else{
-            return false;
-        }
+    if (is_sorted(arr, arr + N)){
+        return true;
+    }
+    else{
+        return false;
     }
 }
 
