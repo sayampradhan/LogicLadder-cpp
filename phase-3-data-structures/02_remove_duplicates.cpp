@@ -39,24 +39,29 @@ int removeDuplicates(int arr[], int size) {
         }
     }
 
-    return j + 1; // new size
+    return j + 1;
 }
 
 int main() {
     int size;
-    int arr[] = {};
-    cout<<"Enter the size of the array: ";
-    cin>>size;
 
-    for (int i = 0; i < size; i++){
-        cout<<"Enter element "<<i<<" :";
-        cin>>arr[i];
+    cout << "Enter the size of the array: ";
+    cin >> size;
+
+    int* arr = new int[size];   // allocate memory
+
+    for (int i = 0; i < size; i++) {
+        cout << "Enter element " << i << " : ";
+        cin >> arr[i];
     }
 
-
     size = removeDuplicates(arr, size);
+
+    cout << "Array after removing duplicates: ";
 
     for (int i = 0; i < size; i++) {
         cout << arr[i] << " ";
     }
+
+    delete[] arr; // free memory
 }
