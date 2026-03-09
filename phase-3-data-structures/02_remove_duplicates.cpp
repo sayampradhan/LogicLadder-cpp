@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 
-bool isSorted(int arr[]){
+template <size_t N>
+bool isSorted(int (&arr)[N]){
     int length = sizeof(arr)/sizeof(arr[0]);
     for (int i = 0; i < length; i++){
         if (arr[i]<arr[i+1]){
@@ -16,7 +17,7 @@ bool isSorted(int arr[]){
 template <size_t N>
 // Insertion sort for sorting the array
 void sortArray(int (&arr)[N]){
-    int length = sizeof(arr)/sizeof(arr[0]);
+    int length = N;
     for (int i = 1; i < length; i++){
         int key = arr[i];
         int j = i - 1;
