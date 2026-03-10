@@ -39,5 +39,5 @@ int right_rotate(int *arr, int size, int k){
 
 int main(){
     int arr[] = {1, 2, 3, 5};
-
+    
 }
