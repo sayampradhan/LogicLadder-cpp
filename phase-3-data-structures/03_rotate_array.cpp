@@ -32,7 +32,9 @@ int right_rotate(int *arr, int size, int k){
         
     }
 
-    for (int i = 0; i <= )
+    for (int i = 0; i <= size; i++){
+        cout<<new_arr[i]<<", ";
+    }
 }
 
 int main(){
