@@ -25,7 +25,7 @@ Example of Rotation by Left:
 */
 
 // The elements will be shift to the right by k elements
-int right_rotate(int *arr, int size, int k){
+int right_rotate(vector<int> arr, int size, int k){
     vector<int> new_arr;
 
     for (int i = size-k; i < size; i++){
@@ -45,8 +45,16 @@ int right_rotate(int *arr, int size, int k){
 }
 
 int main(){
-    int arr[] = {1, 2, 3, 5, 10, 15, 80, 100, 200, 45};
+    vector<int> arr;
+    int k;
+    int n;
+
+    for (int i = 0; i < n; i ++){
+        cin>>arr[i];
+    }
+
     int size = sizeof(arr)/ sizeof(arr[0]);
-    int k = 3;
+
+
     right_rotate(arr, size, k);
 }
