@@ -23,8 +23,8 @@ Example of Rotation by Left:
 
 */
 
-// It will right
-int right_rotate(int *arr, int size){
+// The elements will be shift to the right by k elements
+int right_rotate(int *arr, int k){
     for (int i = 0; i <= size; i++){
         
     }
