@@ -49,6 +49,5 @@ int main(){
     cout<<endl;
     int n = arr.size();
 
-    missing_num(arr, n);
-    
+    int missingNum = missing_num(arr, n);
 }
