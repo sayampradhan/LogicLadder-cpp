@@ -13,7 +13,20 @@ Output: 7
 int main(){
     vector <int> arr;
     int n;
+    int num;
     cout<<"Enter size: ";
     cin>>n;
+    cout<<endl;
+    for (int i = 0; i < n; i++){
+        cout<<"Enter element at index "<<n<<" : ";
+        cin>>num;
+        arr.push_back(num);
+    }
+    cout<<endl;
+    cout<<"Input"<<" : ";
+    for (int i : arr){
+        cout<<i<<" ";
+    }
+    cout<<endl;
     
 }
