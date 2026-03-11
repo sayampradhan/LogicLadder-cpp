@@ -39,7 +39,7 @@ int main(){
     cin>>n;
     cout<<endl;
     for (int i = 0; i < n; i++){
-        cout<<"Enter element at index "<<n<<" : ";
+        cout<<"Enter element at index "<<i<<" : ";
         cin>>num;
         arr.push_back(num);
     }
