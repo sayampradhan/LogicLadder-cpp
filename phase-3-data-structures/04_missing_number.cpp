@@ -15,4 +15,5 @@ int main(){
     int n;
     cout<<"Enter size: ";
     cin>>n;
+    
 }
