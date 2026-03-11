@@ -52,5 +52,12 @@ int main(){
 
     int missingNum = missing_num(arr, n);
     cout<<endl;
-    cout<<"The missing number is: "<<missingNum;
+    if (!(-1)){
+        cout<<"The missing number is: "<<missingNum;
+    }
+    else{
+        cout<<"Incorrect input array. The array should start from 1 to N.";
+    }
+
+    return 0;
 }
