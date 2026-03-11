@@ -120,7 +120,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Find second largest element  
 - [x] Remove duplicates from array  
 - [x] Rotate array left/right  
-- [ ] Find missing number in 1–N  
+- [x] Find missing number in 1–N  
 - [ ] Move all zeros to end  
 - [ ] Kadane’s Algorithm (Maximum subarray sum)  
 - [ ] Merge two sorted arrays  
