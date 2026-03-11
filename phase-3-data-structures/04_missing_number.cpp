@@ -28,7 +28,7 @@ int missing_num(vector<int> arr, int size){
 
 }
 
-// 
+// main function to implement the system
 int main(){
     vector <int> arr;
     int n;
