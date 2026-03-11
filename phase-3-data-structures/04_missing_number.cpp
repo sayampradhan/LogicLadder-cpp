@@ -51,5 +51,6 @@ int main(){
 
     int missingNum = missing_num(arr, n);
     cout<<endl;
+    cout<<"The missing number is: ";
     
 }
