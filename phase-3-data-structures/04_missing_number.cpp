@@ -47,7 +47,7 @@ int main(){
         cout<<i<<" ";
     }
     cout<<endl;
-    int n = arr.size();
+    n = arr.size();
 
     int missingNum = missing_num(arr, n);
     cout<<endl;
