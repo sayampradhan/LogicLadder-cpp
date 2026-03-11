@@ -50,4 +50,6 @@ int main(){
     int n = arr.size();
 
     int missingNum = missing_num(arr, n);
+    cout<<endl;
+    
 }
