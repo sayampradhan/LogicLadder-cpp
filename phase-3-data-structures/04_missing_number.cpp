@@ -11,6 +11,18 @@ Output: 7
 */
 
 int missing_num(vector<int> arr, int size){
+    for (int i = 1; i <= size; i++){
+        bool found = false;
+        for (int j = 0; j < size - 1; j++){
+            if (arr[j]==i){
+                found = true;
+                break;
+            }
+        }
+        if (!found){
+            return i;
+        }
+    }
 
 }
 
