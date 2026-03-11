@@ -52,7 +52,7 @@ int main(){
 
     int missingNum = missing_num(arr, n);
     cout<<endl;
-    if (!(-1)){
+    if (missingNum != -1){
         cout<<"The missing number is: "<<missingNum;
     }
     else{
