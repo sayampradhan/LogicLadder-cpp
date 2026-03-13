@@ -42,4 +42,12 @@ int main(){
     vector<int> arr2 = {2, 4, 6, 8};
 
     mergeArrays(arr1, arr2);
+
+    for (int num : arr1) cout << num << ' ';
+    cout<<endl;
+
+    for (int num : arr2) cout << num << ' ';
+    cout<<endl;
+
+    return 0;
 }
