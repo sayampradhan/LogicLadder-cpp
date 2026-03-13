@@ -8,3 +8,6 @@ using namespace std;
 // Space complexity - O(n + m)
 
 // function to merge two array
+void mergeArrays(vector<int>& arr1, vector<int>& arr2){
+    int n = arr1.size();
+}
