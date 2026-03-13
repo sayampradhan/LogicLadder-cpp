@@ -3,6 +3,6 @@
 #include<algorithm>
 using namespace std;
 
-// Most efficient method to merge two sorted arrays is -- Two Pointer Method
+// Most efficient method to merge two sorted arrays is -- TWO POINTER METHOD
 // Time complexity - O(n + m)
 // Space complexity - O(n + m)
