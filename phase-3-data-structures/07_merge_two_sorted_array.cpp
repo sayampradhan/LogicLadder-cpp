@@ -11,4 +11,5 @@ using namespace std;
 void mergeArrays(vector<int>& arr1, vector<int>& arr2){
     int n = arr1.size();
     int m = arr2.size();
+    int i = 0, j = 0;
 }
