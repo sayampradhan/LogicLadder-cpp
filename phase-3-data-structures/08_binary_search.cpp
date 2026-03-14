@@ -8,6 +8,8 @@ int binary_search(vector<int>& arr){
     int high = arr.size() - 1;
     int mid = (high - low) / 2;
 
+    
+
 
 
 }
@@ -18,6 +20,7 @@ int main(){
     int low;
     int high;
     int mid;
+    int element;
 
     cout<<"Enter length of the array: ";
     cin>>size;
@@ -32,6 +35,9 @@ int main(){
     sort(arr.begin(), arr.end()); 
     auto last = std::unique(arr.begin(), arr.end());
     arr.erase(last, arr.end());
-
+    
+    cout<<endl<<endl;
+    cout<<"Enter element to search: ";
+    cin>>
     binary_search(arr);
 }
