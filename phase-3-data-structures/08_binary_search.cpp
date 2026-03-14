@@ -3,10 +3,24 @@
 #include<algorithm>
 using namespace std;
 
-int binary_search(vector<int>& arr){
+int binary_search(vector<int>& arr, int element){
     int low = 0;
     int high = arr.size() - 1;
     int mid = (high - low) / 2;
+    bool found = false;
+
+    while (found != true){
+        for (int i = low; i < high; i++){
+            if(arr[mid]<element){
+                low = mid;
+                high = high;
+                mid = (high - low)/2;
+                
+                }
+
+        }
+
+    }
 
     
 
