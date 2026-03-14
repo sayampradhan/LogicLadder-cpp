@@ -30,6 +30,8 @@ int main(){
     }
 
     sort(arr.begin(), arr.end()); 
+    auto last = std::unique(arr.begin(), arr.end());
+    arr.erase(last, arr.end());
 
     binary_search(arr);
 }
