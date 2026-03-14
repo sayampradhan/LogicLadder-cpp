@@ -124,7 +124,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Move all zeros to end  
 - [ ] Kadane’s Algorithm (Maximum subarray sum)  
 - [x] Merge two sorted arrays  
-- [ ] Implement Binary Search  
+- [x] Implement Binary Search  
 - [ ] Count frequency of elements  
 - [ ] Stock buy-sell (maximum profit)
 
