@@ -23,4 +23,7 @@ int main(){
         arr.push_back(temp);
     }
 
+    high = size - 1;
+    
+
 }
