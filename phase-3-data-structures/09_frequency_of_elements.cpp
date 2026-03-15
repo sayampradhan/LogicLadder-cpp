@@ -6,13 +6,15 @@ int frequency(vector<int>& arr){
     int n = arr.size();
 
     vector<bool> visited(n, false);
-    vector<vector<int>>count;
+    vector<vector<int>>flag;
 
     for(int i = 0; i < n; i++){
         if (visited[i] == true){
             continue;
         }
     }
+
+    int count = 1;
 
 }
 
