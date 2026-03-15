@@ -125,7 +125,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [ ] Kadane’s Algorithm (Maximum subarray sum)  
 - [x] Merge two sorted arrays  
 - [x] Implement Binary Search  
-- [ ] Count frequency of elements  
+- [x] Count frequency of elements  
 - [ ] Stock buy-sell (maximum profit)
 
 ### 🔹 Strings
