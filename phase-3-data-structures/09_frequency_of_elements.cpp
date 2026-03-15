@@ -1,5 +1,6 @@
 #include<iostream>
 #include<vector>
+
 using namespace std;
 
 vector<vector<int>> freq(vector<int>& arr){
@@ -37,6 +38,9 @@ int main(){
         arr.push_back(temp);
     }
     vector<vector<int>>frequency = freq(arr);
-
+    sort(frequency.begin(), frequency.end());
+    for (auto x : frequency){
+        cout << x[0] << ' ' << x[1] << '\n';
+    }
     return 0;
 }
