@@ -2,20 +2,27 @@
 #include<vector>
 using namespace std;
 
-int frequency(vector<int>& arr){
+vector<vector<int>> frequency(vector<int>& arr){
     int n = arr.size();
 
     vector<bool> visited(n, false);
-    vector<vector<int>>flag;
+    vector<vector<int>>frequency;
 
     for(int i = 0; i < n; i++){
         if (visited[i] == true){
             continue;
         }
+
+        int count = 1;
+        for (int j = i + 1; j < n; j++){
+            if(arr[i] == arr[j]){
+                visited[j] = true;
+                count++;
+            }
+        }
+        frequency.push_back({arr[i], count});
     }
-
-    int count = 1;
-
+    return frequency;
 }
 
 int main(){
