@@ -40,7 +40,7 @@ int main(){
     vector<vector<int>>frequency = freq(arr);
     sort(frequency.begin(), frequency.end());
     for (auto x : frequency){
-        cout << x[0] << ' ' << x[1] << '\n';
+        cout << "The frequency of "<< x[0] << "is " << x[1] << '\n';
     }
     return 0;
 }
