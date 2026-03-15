@@ -14,6 +14,7 @@ int main(){
     for(int i = 0; i < n; i++){
         int temp = 0;
         cout<<"Enter element at "<<i<<" : ";
+        cin>>temp;
     }
     return 0;
 }
