@@ -46,7 +46,7 @@ This phase introduces the **first true data structures** and trains the mind to 
 - [ ] Kadane’s Algorithm (Maximum subarray sum)  --- Incomplete
 - [x] Merge two sorted arrays  
 - [x] Implement Binary Search  
-- [ ] Count frequency of elements  
+- [x] Count frequency of elements  
 - [ ] Stock buy-sell (maximum profit)
 
 ### 🔹 Strings
