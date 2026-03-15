@@ -7,5 +7,5 @@ int frequency(vector<int>& arr){
 }
 
 int main(){
-    r
+    return 0;
 }
