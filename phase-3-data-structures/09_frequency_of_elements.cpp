@@ -5,7 +5,7 @@ using namespace std;
 int frequency(vector<int>& arr){
     int n = arr.size();
 
-    
+    vector<bool> visited(n, false);
 
 }
 
