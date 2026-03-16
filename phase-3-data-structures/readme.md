@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🟠 PHASE 3 — DATA STRUCTURES CORE
-[░░░░░░░░░░░░░░░░░░░░] 0%
+[████████████░░░░░░░░] 60%
 
 ### Arrays · Strings · Core Algorithmic Thinking
 
