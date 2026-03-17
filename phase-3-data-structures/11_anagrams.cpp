@@ -1,48 +1,47 @@
 #include <algorithm>
-#include<iostream>
+#include <iostream>
 #include <string>
 using namespace std;
 
 bool isAnagram(string a, string b)
 {
-    int length1 = a.length();
-    int length2 = b.length();
-    if(length1 != length2)
+    if (a.length() != b.length())
     {
         return false;
     }
+
     sort(a.begin(), a.end());
     sort(b.begin(), b.end());
-    for(int i = 0; i < length1; i++)
+
+    for (int i = 0; i < a.length(); i++)
     {
-        if(a[i] != b[i])
+        if (a[i] != b[i])
         {
             return false;
         }
-        else
-        {
-            return true;
-        }
     }
+
+    return true;
 }
 
 int main()
 {
-    string words;
-    string anagrams;
+    string word;
+    string anagram;
 
-    cout<<"Enter anagram: ";
-    cin>>anagrams;
-    cout<<"Enter word: ";
-    cin>>words;
+    cout << "Enter anagram: ";
+    cin >> anagram;
+    cout << "Enter word: ";
+    cin >> word;
 
-    if (isAnagram(words, anagrams))
+    if (isAnagram(word, anagram))
     {
-        cout<<"The two strings are anagrams of each other.";
+        cout << "The two strings are anagrams of each other.";
     }
     else
     {
-        cout<<"The two strings are not anagrams of each other.";
+        cout << "The two strings are not anagrams of each other.";
     }
+
     return 0;
 }
