@@ -1,3 +1,4 @@
+#include <algorithm>
 #include<iostream>
 #include <vector>
 using namespace std;
@@ -11,6 +12,8 @@ bool isAnagram(string a, string b)
     {
         return false;
     }
+    sort(a.begin(), a.end());
+    sort(b.begin(), b.end());
 }
 
 int main()
