@@ -4,9 +4,12 @@ using namespace std;
 
 // Function for performing reverse operation
 string reverseWord(string word){
-    string result;
+    string result = "";
 
-    result = word.substr(0, word.length() - 1);
+    for (int i = word.length(); i > 0; i--)
+    {
+        result += word[i - 1];
+    }
 
     return result;
 
@@ -14,7 +17,9 @@ string reverseWord(string word){
 
 int main()
 {
-    string word = "sam";
+    string word;
+    cout << "Enter word: ";
+    cin >> word;
     string result = reverseWord(word);
     cout << result << endl;
 }
