@@ -52,7 +52,7 @@ This phase introduces the **first true data structures** and trains the mind to 
 ### 🔹 Strings
 
 - [x] Check anagram  
-- [ ] Reverse string without built-in reverse  
+- [x] Reverse string without built-in reverse  
 - [ ] Longest word in a sentence  
 - [ ] Count vowels and consonants  
 - [ ] Remove spaces  
