@@ -131,7 +131,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 ### 🔹 Strings
 
 - [x] Check anagram  
-- [ ] Reverse string without built-in reverse  
+- [x] Reverse string without built-in reverse  
 - [ ] Longest word in a sentence  
 - [ ] Count vowels and consonants  
 - [ ] Remove spaces  
