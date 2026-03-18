@@ -11,3 +11,10 @@ string reverseWord(string word){
     return result;
 
 }
+
+int main()
+{
+    string word = "sam";
+    string result = reverseWord(word);
+    cout << result << endl;
+}
